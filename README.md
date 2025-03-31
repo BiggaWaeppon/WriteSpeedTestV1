@@ -110,5 +110,3 @@ typing-speed-test/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can replace `your-username` with your actual GitHub username in the clone URL. This `README.md` provides clear instructions on how to set up, install, and use your typing speed test project. It also explains the structure of your project and what technologies are used.
