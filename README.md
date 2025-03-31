@@ -1,6 +1,5 @@
 # WriteSpeedTestV1
 A simple write speed test in Python
-Here's a simple and professional `README.md` for your GitHub project:
 
 ---
 
